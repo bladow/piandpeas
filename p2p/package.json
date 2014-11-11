@@ -2,7 +2,7 @@
   "name": "piandpeasNet",
   "version": "0.0.1",
   "description": "Network Components of PiandPeas",
-  "main": "app.js",
+  "main": "networkStart.js",
   "dependencies": {
     "app-config": "^0.1.4",
     "mongodb": "^1.4.19",
