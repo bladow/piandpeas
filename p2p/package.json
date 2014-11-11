@@ -1,0 +1,31 @@
+{
+  "name": "piandpeasNet",
+  "version": "0.0.1",
+  "description": "Network Components of PiandPeas",
+  "main": "app.js",
+  "dependencies": {
+    "app-config": "^0.1.4",
+    "mongodb": "^1.4.19",
+    "mongojs": "^0.17.0",
+    "smokesignal": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bladow/piandpeas.git"
+  },
+  "author": "Garrett Bladow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bladow/piandpeas/issues"
+  },
+  "homepage": "https://github.com/bladow/piandpeas",
+	"dependencies": {
+		"smokesignal": "0.2.1",
+		"app-config": "0.1.4",
+		"mongojs": "0.17.0"
+	}
+}
